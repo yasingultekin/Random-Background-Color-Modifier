@@ -9,3 +9,6 @@ What I used?
 - Js DOM
 
 [Click Here For Preview](https://yasingultekin.github.io/Random-Background-Color-Modifier/)
+
+
+![](intro.gif)
